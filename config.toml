@@ -1,0 +1,4 @@
+baseURL = "https://status.lukas-schieren.de/"
+languageCode = "de-de"
+title = "Teamgeist.nrw"
+theme = "dimension"
